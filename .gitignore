@@ -23,6 +23,13 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+SetupCraft/API/obj
+SetupCraft/Application/obj
+SetupCraft/Domain/obj
+SetupCraft/Infrastructure/obj
+SetupCraft/Shared/obj
+
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
