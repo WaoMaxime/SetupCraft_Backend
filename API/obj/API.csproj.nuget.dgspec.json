@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project_Setupcraft\\Backend\\Domain\\API\\API.csproj": {}
+    "C:\\Project_Setupcraft\\Backend\\SetupCraft\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Project_Setupcraft\\Backend\\Domain\\API\\API.csproj": {
+    "C:\\Project_Setupcraft\\Backend\\SetupCraft\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project_Setupcraft\\Backend\\Domain\\API\\API.csproj",
+        "projectUniqueName": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Project_Setupcraft\\Backend\\Domain\\API\\API.csproj",
+        "projectPath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\API\\API.csproj",
         "packagesPath": "C:\\Users\\blond\\.nuget\\packages\\",
-        "outputPath": "C:\\Project_Setupcraft\\Backend\\Domain\\API\\obj\\",
+        "outputPath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blond\\AppData\\Roaming\\NuGet\\NuGet.Config"

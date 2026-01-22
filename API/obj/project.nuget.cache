@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6nxdig6f1L4=",
+  "dgSpecHash": "G+F6CwjuDps=",
   "success": true,
-  "projectFilePath": "C:\\Project_Setupcraft\\Backend\\Domain\\API\\API.csproj",
+  "projectFilePath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\API\\API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

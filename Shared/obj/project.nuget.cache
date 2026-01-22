@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rDh5jQpbTQ8=",
+  "dgSpecHash": "vfMDFIXVb9g=",
   "success": true,
-  "projectFilePath": "C:\\Project_Setupcraft\\Backend\\Domain\\Shared\\Shared.csproj",
+  "projectFilePath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Shared\\Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

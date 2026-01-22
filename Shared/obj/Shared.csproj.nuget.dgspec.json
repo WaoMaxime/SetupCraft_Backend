@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project_Setupcraft\\Backend\\Domain\\Shared\\Shared.csproj": {}
+    "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Project_Setupcraft\\Backend\\Domain\\Shared\\Shared.csproj": {
+    "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project_Setupcraft\\Backend\\Domain\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Project_Setupcraft\\Backend\\Domain\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\blond\\.nuget\\packages\\",
-        "outputPath": "C:\\Project_Setupcraft\\Backend\\Domain\\Shared\\obj\\",
+        "outputPath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\blond\\AppData\\Roaming\\NuGet\\NuGet.Config"

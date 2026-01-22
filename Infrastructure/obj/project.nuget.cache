@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aE5/xvR936k=",
+  "dgSpecHash": "cR23gC+E+zc=",
   "success": true,
-  "projectFilePath": "C:\\Project_Setupcraft\\Backend\\Domain\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

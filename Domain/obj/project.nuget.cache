@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "APtK9okb2us=",
+  "dgSpecHash": "4dB4YUo/6po=",
   "success": true,
-  "projectFilePath": "C:\\Project_Setupcraft\\Backend\\Domain\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

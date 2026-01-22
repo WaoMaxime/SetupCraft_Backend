@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project_Setupcraft\\Backend\\Domain\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Project_Setupcraft\\Backend\\Domain\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\blond\\.nuget\\packages\\",
-      "outputPath": "C:\\Project_Setupcraft\\Backend\\Domain\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Project_Setupcraft\\Backend\\SetupCraft\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\blond\\AppData\\Roaming\\NuGet\\NuGet.Config"
