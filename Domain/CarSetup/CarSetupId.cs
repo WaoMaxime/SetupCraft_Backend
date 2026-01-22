@@ -1,4 +1,3 @@
-using Shared.DDD;
-
 namespace Domain.CarSetup;
 
+public record CarSetupId();
